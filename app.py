@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 
 # --- Page setup ---
-st.title("🚕 TaxiFareModel")
+st.title("🚕 TaxiFareModel - New York City 🇺🇸")
 st.markdown("Enter your trip details below to get an estimated fare.")
 
 # --- Input fields ---
